@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Muskan-Gill835/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Muskan-Gill835/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Muskan-Gill835/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Muskan-Gill835/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Muskan-Gill835/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Muskan-Gill835/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Hash Table
 |  |
 | ------- |
