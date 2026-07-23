@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Muskan-Gill835/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Muskan-Gill835/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0152-maximum-product-subarray](https://github.com/Muskan-Gill835/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Muskan-Gill835/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Muskan-Gill835/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Muskan-Gill835/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Muskan-Gill835/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/Muskan-Gill835/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Queue
 |  |
 | ------- |
